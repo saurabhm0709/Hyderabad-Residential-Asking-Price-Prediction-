@@ -1,0 +1,11 @@
+# Versions used for notebooks 15-27 and the final model (Python 3.14.2).
+# scikit-learn >= 1.6 is required for GroupKFold(shuffle=True).
+pandas==3.0.6
+numpy==2.5.3
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+jupyter==1.1.1
+pyyaml==6.0.3
+joblib==1.6.0
+pytest==9.1.1
